@@ -1,0 +1,10 @@
+id: YDP223B001-V9
+category: displays
+size: "2.23"
+panel: tft
+resolution: 200x480
+interface: [mipi]
+driver: ST7797
+touch: null
+outline: 23.92 x 57.79 x 1.9 mm
+active_area: 21.72 x 52.42 mm
